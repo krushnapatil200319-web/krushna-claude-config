@@ -1,6 +1,6 @@
 {
   "name": "krushna-claude-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "One-command Claude Code setup: CLAUDE.md engineering rules, code-review and security checklists, skills, slash commands and project memory. Install and uninstall safely with npx.",
   "keywords": [
     "claude",
