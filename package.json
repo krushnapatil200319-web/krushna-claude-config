@@ -1,0 +1,37 @@
+{
+  "name": "krushna-claude-config",
+  "version": "1.0.1",
+  "description": "One-command Claude Code setup: CLAUDE.md engineering rules, code-review and security checklists, skills, slash commands and project memory. Install and uninstall safely with npx.",
+  "keywords": [
+    "claude",
+    "claude-code",
+    "claude-md",
+    "claude-config",
+    "claude-memory",
+    "claude-skills",
+    "anthropic",
+    "ai-coding",
+    "ai-agent",
+    "coding-assistant",
+    "code-review",
+    "security-review",
+    "slash-commands",
+    "prompts",
+    "developer-tools",
+    "cli",
+    "npx",
+    "supabase",
+    "nextjs",
+    "typescript"
+  ],
+  "homepage": "https://github.com/krushnapatil200319-web/krushna-claude-config#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krushnapatil200319-web/krushna-claude-config.git"
+  },
+  "bugs": { "url": "https://github.com/krushnapatil200319-web/krushna-claude-config/issues" },
+  "bin": { "krushna-claude-config": "bin/cli.js" },
+  "files": ["bin", "template"],
+  "engines": { "node": ">=16.7" },
+  "license": "MIT"
+}
